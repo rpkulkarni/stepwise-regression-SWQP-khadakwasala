@@ -52,7 +52,7 @@ Copypip install -r requirements.txt
 Usage
 
 Clone this repository:
-Copygit clone [repository URL]
+Copygit clone [[repository URL](https://github.com/rpkulkarni/stepwise-regression-SWQP-khadakwasala.git)]
 
 
 
